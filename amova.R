@@ -9,6 +9,7 @@ dec <- "."
 
 # c'est bon ça !
 
+# ton chien est pas beau
 ##Steps
 ###Haplotypes x populations abundance matrix lol
 tab_haploXpop <- read.table(file = haploXpop_filename, sep = sep, dec = dec, header = TRUE)
