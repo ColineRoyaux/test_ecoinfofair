@@ -6,6 +6,7 @@ sep <- "\t"
 dec <- "."
 
 # on modifie ! 
+# C'est logi en fait
 
 ##Steps
 ###Haplotypes x populations abundance matrix lol
