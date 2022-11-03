@@ -5,9 +5,12 @@ structure_filename <- "C:/Users/royau/Downloads/Galaxy114-[Regex_Find_And_Replac
 sep <- "\t"
 dec <- "."
 
+# martin il pose des questions et il écoute pas les réponses 
+
 # on modifie ! 
 # C'est logi en fait
 # encore
+# ohlala bebe
 
 ##Steps
 ###Haplotypes x populations abundance matrix lol
