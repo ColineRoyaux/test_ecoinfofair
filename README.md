@@ -1,0 +1,3 @@
+# test_ecoinfofair
+
+# bonjour :)
