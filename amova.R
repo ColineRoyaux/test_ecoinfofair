@@ -8,6 +8,7 @@ dec <- "."
 # on modifie ! 
 # C'est logi en fait
 # encore
+# ohlala bebe
 
 ##Steps
 ###Haplotypes x populations abundance matrix lol
