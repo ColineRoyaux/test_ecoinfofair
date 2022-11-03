@@ -5,6 +5,8 @@ structure_filename <- "C:/Users/royau/Downloads/Galaxy114-[Regex_Find_And_Replac
 sep <- "\t"
 dec <- "."
 
+# on modifie ! 
+
 ##Steps
 ###Haplotypes x populations abundance matrix lol
 tab_haploXpop <- read.table(file = haploXpop_filename, sep = sep, dec = dec, header = TRUE)
